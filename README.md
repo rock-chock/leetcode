@@ -1,2 +1,4 @@
 # leetcode
- SOlutions to leetcode problems
+ Solutions to leetcode problems
+
+https://leetcode.com/rock-chock/
